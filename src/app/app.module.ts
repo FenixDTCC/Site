@@ -7,8 +7,8 @@ import { HeaderComponent } from './template/header/header.component';
 import { FooterComponent } from './template/footer/footer.component';
 import { HomeComponent } from './components/home/home.component';
 import { SobrenosComponent } from './components/institucional/sobrenos/sobrenoscomponent';
-import { RegistreseComponent } from './components/institucional/registrese/registrese.component'
-import { LoginComponent } from './components/institucional/login/login.component';
+//import { RegistreseComponent } from './components/institucional/registrese/registrese.component'
+//import { LoginComponent } from './components/institucional/login/login.component';
 import { FormsModule } from '@angular/forms';
 
 @NgModule({
@@ -17,9 +17,9 @@ import { FormsModule } from '@angular/forms';
     HeaderComponent,
     FooterComponent,
     HomeComponent,
-    RegistreseComponent,
-    SobrenosComponent,
-    LoginComponent
+    //LoginComponent,
+    //RegistreseComponent,
+    SobrenosComponent
   ],
   imports: [
     BrowserModule,

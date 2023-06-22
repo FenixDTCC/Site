@@ -1,4 +1,4 @@
-import { HomeComponent } from './../../home/home.component';
+/* import { HomeComponent } from './../../home/home.component';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -43,5 +43,4 @@ export class RegistreseComponent implements OnInit {
     alert('Cadastrado com Sucesso!');
   };
 }
-
-
+*/
